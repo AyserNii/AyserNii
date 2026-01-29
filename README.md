@@ -43,7 +43,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Resyourbae.Resyourbae&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AyserNii.Aysernii&"  />
 </div>
 
 ###
@@ -85,9 +85,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Resyourbae/Resyourbae/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Resyourbae/Resyourbae/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Resyourbae/Resyourbae/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyserNii/AyserNii/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyserNii/AyserNii/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AyserNii/AyserNii/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
