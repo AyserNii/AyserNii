@@ -48,7 +48,7 @@
 
 ###
 
-<div style="display: flex; align-items: center; gap: 16px;">
+<div style="display: flex; align-items: center;">
   <img height="200" src="https://i.imgflip.com/65efzo.gif" />
   <img height="200" src="images/gifAnime.gif" />
 </div>
