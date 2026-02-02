@@ -63,7 +63,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="images/computer.gif" />
+  <img height="170" src="images/computer.gif" />
   <!-- <img width="12" />
   <img height="150" src="images/cry.gif" /> -->
 </div>
