@@ -1,10 +1,14 @@
 ###
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&color=gradient&customColorList=12,14,16&fontSize=0" />
+<img width="100%" src="https://github.com/7heM4st3r/Everything-Is-Connected/raw/master/images/christmas-snow-divider.gif" alt="Snow Animation" />
 
 ###
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1200&color=36BCF7&width=700&lines=Hi+%F0%9F%91%8B!+Nama+Saya+Resya+Anggara+%7C%7C+Uhuyy+%F0%9F%94%A5" />
+<div align="center">
+  <img src="https://media.giphy.com/media/10xcHQ3Vv0g6g/giphy.gif" width="50" alt="Snowman" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1200&color=36BCF7&width=700&lines=Hi+%F0%9F%91%8B!+Nama+Saya+Resya+Anggara+%7C%7C+Uhuyy+%F0%9F%94%A5" />
+</div>
 
 ###
 <br>
