@@ -9,9 +9,22 @@
 ###
 <br>
  
-<p align="center">
-  <img width="400" height="5005" alt="image" src="images/resya2.JPG">
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="40%">
+        <img width="100%" src="images/resya2.JPG" alt="Resya Anggara" style="border-radius: 10px" />
+      </td>
+      <td align="center" width="60%">
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+          <img src="https://raw.githubusercontent.com/AyserNii/AyserNii/main/profile-summary-card-output/2077/0-profile-details.svg" alt="Profile Details" width="100%" />
+        </a>
+        <br />
+        <img src="https://raw.githubusercontent.com/AyserNii/AyserNii/main/profile-summary-card-output/2077/1-repos-per-language.svg" alt="Repos per language" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
