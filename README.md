@@ -51,7 +51,7 @@
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif" />
   <img width="12" />
-  <img height="200" src="images/computer.gif" />
+  <img height="200" src="images/cry.gif" />
 </div>
 
 
