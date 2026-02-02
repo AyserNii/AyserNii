@@ -50,9 +50,9 @@
 ###
 
 <div align="center">
-  <img height="100" src="images/computer.gif" />
+  <img height="170" src="images/computer.gif" />
   <img width="12" />
-  <img height="100" src="images/cry.gif" />
+  <img height="170" src="images/cry.gif" />
 </div>
 
 ###
