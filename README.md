@@ -4,10 +4,7 @@
 
 ###
 
-<h2 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1200&color=36BCF7&width=700&lines=Hi+👋!+Nama+Saya+Resya+Anggara+%7C%7C+Uhuyy+🔥" />
-</h2>
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1200&color=36BCF7&width=700&lines=Hi+%F0%9F%91%8B!+Nama+Saya+Resya+Anggara+%7C%7C+Uhuyy+%F0%9F%94%A5" />
 
 ###
 <br>
