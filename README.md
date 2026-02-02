@@ -3,17 +3,16 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&color=gradient&customColorList=12,14,16&fontSize=0" />
 
 ###
-<h2 align="left">
-  <img src="https://readme-typing-svg.demolab.com
-    ?font=Fira+Code
-    &size=28
-    &pause=1000
-    &color=F75C7E
-    &width=650
-    &lines=Hi+👋!+Nama+Saya+Resya+Anggara;Uhuyy+🔥"
-  />
-</h2>
-
+<img src="https://readme-typing-svg.demolab.com
+?font=JetBrains+Mono
+&size=26
+&pause=1200
+&color=36BCF7
+&center=false
+&vCenter=true
+&width=700
+&lines=Hi+👋!+Nama+Saya+Resya+Anggara+%7C%7C+Uhuyy+🔥"
+ />
 ###
 
 <br>
