@@ -1,6 +1,6 @@
 ###
 
-<img width="50%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&color=gradient&customColorList=12,14,16&fontSize=0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&color=gradient&customColorList=12,14,16&fontSize=0" />
 
 ###
 <h2 align="left">Hi 👋! Nama Saya Resya Anggara || Uhuyy 🔥</h2>
@@ -10,7 +10,7 @@
 <br>
  
 <p align="center">
-  <img width="500" height="625" alt="image" src="images/resya2.JPG">
+  <img width="400" height="5005" alt="image" src="images/resya2.JPG">
 </p>
 
 <!-- <div align="center">
