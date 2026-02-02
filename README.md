@@ -47,19 +47,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="60" alt="apache logo"  />
 </div>
 
-
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AyserNii.Aysernii&"  />
+  <img height="100" src="images/computer.gif" />
+  <img width="12" />
+  <img height="100" src="images/cry.gif" />
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="images/computer.gif" />
-  <img width="12" />
-  <img height="200" src="images/cry.gif" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AyserNii.Aysernii&"  />
 </div>
 
 ###
